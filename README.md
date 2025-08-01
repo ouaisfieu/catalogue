@@ -2,7 +2,7 @@
 
 ## 🎯 Objectif du projet
 
-Catalogue est un dépôt-template permettant à chacun·e de se créer son propre média numérique à partir de notre base.
+Ce catalogue est un dépôt-template permettant à chacun·e de devenir son propre média numérique.
 
 * Possibilité de personnaliser le `manifest.json` avec ses propres contenus (ex : articles, images, PDFs, etc.) ou repartir de ceux proposés.
 * Le projet est conçu pour apprendre en construisant : on déploie simultanément les nouveautés et les tests (bêtas), dans une approche itérative pour faciliter l’adhésion progressive.
@@ -42,41 +42,26 @@ Le catalogue est consultable en live ici :
 
 ## 🛠 Installation & usage
 
-1. Fork ou clone ce dépôt.
-2. Modifie `manifest.json` pour y indiquer **tes contenus** :
+1. Forker ou cloner ce dépôt.
+2. Modifier `manifest.json` pour y indiquer **ses contenus** :
 
    * `"title"`, `"type"`, `"path"`, etc.
-3. Place tes fichiers dans les dossiers correspondants (`md/`, `pdfs/`, etc.).
-4. Ouvre `index.html` dans un navigateur ou déploie sur un serveur statique.
-5. Observe ton catalogue personnalisé en ligne.
+3. Placer les fichiers dans les dossiers correspondants (`thumbs/`, `pdfs/`, etc.).
+4. Ouvrir `index.html` dans un navigateur ou déployer sur un serveur statique.
+5. Observer son catalogue personnalisé en ligne.
 
 ## 🌱 Bonnes pratiques pédagogiques
 
-* Travail en **version bêta** : ajoute progressivement de nouveaux modules / tests.
-* Approche **itérative et évolutive** : permet aux utilisateurs de prendre en main à leur rythme, et d'améliorer le projet ensemble.
-
-## 🤝 Contributions bienvenues
-
-Tu veux personnaliser, ajouter des tests, proposer un nouveau format de contenu ?
-
-1. Fork → 2. Crée une branche → 3. Modifie → 4. Ouvre une Pull Request
-   On peut fusionner, discuter et améliorer ensemble.
+* Travail en **version bêta** : ajouter progressivement de nouveaux modules / tests.
+* Approche **itérative et évolutive** : permettre aux personnes de prendre en main à leur rythme, et d'améliorer le projet progressivement.
 
 ## 📜 Licence
 
-* **Tous usages tolérés, sauf commercial.**
-* Citation de la source appréciée, mais **non obligatoire**.
-* Usage libre/ libre-service : adapte, modifie, partage.
+* **Tout est permis sauf utilisation commerciale.**
+* Citation de la source appréciée, mais **pas obligatoire**.
+* Usage simple / libre-service : adapter, modifier, partager.
 
-## 📧 Contact
-
-Besoin d’aide ou envie de collaborer ?
-Utilise les **Issues GitHub** du dépôt, on répond dès que possible.
 
 ---
 
-### 🟢 Pourquoi tout ça ?
 
-Ce README donne à ton projet une structure claire et professionnelle, tout en gardant l’esprit d’ouverture et de participation que tu souhaites promouvoir. Il montre aussi la démarche d’apprentissage collectif et progressif.
-
-Si tu veux une version en anglais, ou ajouter des sections (ex. exemples visuels, captures d’écran, roadmap), dis-le moi je peux te le générer direct !
