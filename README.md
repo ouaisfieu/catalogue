@@ -39,7 +39,8 @@ Ce catalogue est un dépôt-template permettant à chacun·e de devenir son prop
 
 Le catalogue est consultable en live ici :
 [dl.ouaisfi.eu](https://dl.ouaisfi.eu/)
-Pour utiliser le template c'est [par ici](https://github.com/new?template_name=catalogue&template_owner=ouaisfieu)
+
+* Pour utiliser le template c'est [par ici](https://github.com/new?template_name=catalogue&template_owner=ouaisfieu)
 
 ## 🛠 Installation & usage
 
