@@ -41,6 +41,7 @@ Le catalogue est consultable en live ici :
 [dl.ouaisfi.eu](https://dl.ouaisfi.eu/)
 
 * Pour utiliser le template c'est [par ici](https://github.com/new?template_name=catalogue&template_owner=ouaisfieu)
+* La documentation [c'est ici](https://dl.ouaisfi.eu/d/)
 
 ## 🛠 Installation & usage
 
